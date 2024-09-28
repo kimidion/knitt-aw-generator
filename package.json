@@ -1,5 +1,5 @@
 {
-	"name": "passkit-generator",
+	"name": "knitt-aw-generator",
 	"version": "3.1.11",
 	"description": "The easiest way to generate custom Apple Wallet passes in Node.js",
 	"main": "lib/index.js",
@@ -12,8 +12,8 @@
 	},
 	"author": "Alexander Patrick Cerutti",
 	"license": "MIT",
-	"repository": "https://github.com/alexandercerutti/passkit-generator",
-	"bugs": "https://github.com/alexandercerutti/passkit-generator/issues",
+	"repository": "https://github.com/kimidion/knitt-aw-generator",
+	"bugs": "https://github.com/kimidion/knitt-aw-generator/issues",
 	"keywords": [
 		"Apple",
 		"Passkit",
